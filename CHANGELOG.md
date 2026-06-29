@@ -1,55 +1,59 @@
 # Changelog
 
-Все заметные изменения этого проекта будут документированы в этом файле.
+All notable changes to this project are documented herein.
 
 ## [1.0.0] - 2026-06-30
 
 ### Added
-- ✨ Профессиональное оформление README с бейджами и иконками
-- 📋 Таблицы совместимости скриптов с версиями Photoshop
-- 🛠️ Расширенные инструкции по установке для macOS и Windows
-- 📚 Улучшенная документация по использованию каждого скрипта
-- 🎯 FAQ раздел с частыми вопросами
-- 🔗 Полезные ссылки на официальную документацию Adobe
+- Professional documentation with structured formatting
+- Compatibility matrices for version management
+- Installation instructions for macOS and Windows
+- Technical specifications and usage examples
+- FAQ section with common inquiries
+- Reference materials for Adobe documentation
+- Version history tracking
 
 ### Improved
-- 🎨 Визуальное оформление всех скриптов
-- 📊 Детальные описания функциональности
-- ⚡ Примеры использования с кодом
+- Documentation clarity and organization
+- Technical accuracy across all specifications
+- Code example presentation
+- Installation workflow
 
 ### Fixed
-- 🐛 Исправлены ссылки в документации
-- 🔧 Уточнены требования для каждого скрипта
+- Documentation accuracy
+- Specification validation
+- Compatibility verification
 
 ---
 
 ## [0.9.0] - 2025-12-12
 
 ### Initial Release
-- 6 полностью функциональных скриптов для Photoshop
-- Поддержка macOS и Windows
-- MIT лицензия
+- Six production scripts for Adobe Photoshop
+- Cross-platform support
+- MIT licensing
 
 ---
 
-## Используемые версии
+## Script Versions
 
-- SmartScript Crop: v1.3
-- Layer Cleanup: v1.0
-- PathTransfer: v1.0
-- DocInfo Engine: v1.3
-- Document Info Extractor: v2.0
-- Stack in PSD: v1.0
-
----
-
-## Планы на будущее
-
-- [ ] Добавить поддержку Adobe UXP плагинов
-- [ ] Создать видеотуториалы
-- [ ] Добавить конфигурационные файлы для батчей
-- [ ] Интеграция с CI/CD для автоматизации
+- Smart Path Crop v1.3
+- Layer Cleanup v1.0
+- PathTransfer v1.0
+- DocInfo Engine v1.3
+- Document Info Extractor v2.0
+- Stack in PSD v1.0
 
 ---
 
-**Формат основан на [Keep a Changelog](https://keepachangelog.com/)**
+## Future Development
+
+- Adobe UXP plugin support
+- Extended documentation
+- Batch configuration files
+- Automation integration
+- Multilingual support
+
+---
+
+Format follows Keep a Changelog specification.
