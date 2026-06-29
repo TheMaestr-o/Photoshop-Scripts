@@ -126,7 +126,7 @@ main();
   - 1417×1417 px
   - 2362×2362 px
 
-**[🎥 Смотри GIF примера обработки]**
+*[📸 Добавь GIF демонстрации Smart_Path_Crop]*
 
 **Пример расчёта:**
 ```
@@ -148,7 +148,7 @@ main();
 - 📦 Удаляет пустые группы слоёв
 - 💾 Опционально сохраняет Layer Compositions
 
-**[🎥 Смотри GIF примера очистки]**
+*[📸 Добавь GIF демонстрации Layer_Cleanup]*
 
 ---
 
@@ -181,7 +181,7 @@ Aspect Ratio: 4:3
 - 💾 Сохраняет JPG с путями
 - ⚙️ Автоматическая пакетная обработка
 
-**[🎥 Смотри GIF примера переноса путей]**
+*[📸 Добавь GIF демонстрации PathTransfer]*
 
 ---
 
@@ -271,7 +271,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND
 [![Email](https://custom-icon-badges.demolab.com/badge/Email-EA4335.svg?logo=gmail&logoColor=white)](mailto:gssdarm@gmail.com)
 [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-black.svg?logo=github&logoColor=white)](https://github.com/TheMaestr-o)
 [![Telegram](https://custom-icon-badges.demolab.com/badge/Telegram-0088cc.svg?logo=telegram&logoColor=white)](https://t.me/ohnedan)
-[![Website](https://custom-icon-badges.demolab.com/badge/Portfolio-6B00FF.svg?logo=globe&logoColor=white)](https://example.com)
 
 **Email:** gssdarm@gmail.com  
 **Telegram:** [@ohnedan](https://t.me/ohnedan)
