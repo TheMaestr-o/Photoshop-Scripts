@@ -179,3 +179,27 @@ GitHub: [@TheMaestr-o](https://github.com/TheMaestr-o)
 ---
 
 Last updated: June 2026
+
+---
+
+## Support & Contact
+
+For questions, feedback, or collaboration:
+
+<div style="display: flex; gap: 10px; margin: 20px 0; flex-wrap: wrap;">
+  <a href="mailto:gssdarm@gmail.com" style="display: inline-flex; align-items: center; gap: 8px; background: linear-gradient(135deg, #EA4335 0%, #c5221f 100%); padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; color: #fff; font-size: 0.95em; box-shadow: 0 4px 12px rgba(234, 67, 53, 0.3); border: none; cursor: pointer;">
+    <span style="font-size: 1.2em;">✉️</span> Email
+  </a>
+  
+  <a href="https://t.me/ohnedan" style="display: inline-flex; align-items: center; gap: 8px; background: linear-gradient(135deg, #0088cc 0%, #005fa3 100%); padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; color: #fff; font-size: 0.95em; box-shadow: 0 4px 12px rgba(0, 136, 204, 0.3); border: none; cursor: pointer;">
+    <span style="font-size: 1.2em;">💬</span> Telegram
+  </a>
+
+  <a href="https://github.com/TheMaestr-o" style="display: inline-flex; align-items: center; gap: 8px; background: linear-gradient(135deg, #1f2937 0%, #111827 100%); padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; color: #fff; font-size: 0.95em; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); border: none; cursor: pointer;">
+    <span style="font-size: 1.2em;">👨‍💻</span> GitHub
+  </a>
+</div>
+
+---
+
+Last updated: June 2026
