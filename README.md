@@ -158,47 +158,13 @@ A: Standard for batch operations. Optimize image dimensions. Close unnecessary a
 - Adobe ExtendScript: https://github.com/Adobe-CEP/CEP-Resources
 - Photoshop Scripting: https://www.adobe.io/apis/creativecloud/photoshop.html
 - ExtendScript Toolkit: https://www.adobe.com/products/extendscript.html
-- Adobe Community: https://forums.adobe.com/community/en/groups/adobe-dev
-
----
-
-## License
-
-MIT License. Free for personal and commercial use.
-
-See LICENSE file for full details.
-
----
-
-## Support
-
-Email: gssdarm@gmail.com
-Telegram: [@ohnedan](https://t.me/ohnedan)
-GitHub: [@TheMaestr-o](https://github.com/TheMaestr-o)
-
----
-
-Last updated: June 2026
-
----
-
 ## Support & Contact
 
 For questions, feedback, or collaboration:
 
-<div style="display: flex; gap: 10px; margin: 20px 0; flex-wrap: wrap;">
-  <a href="mailto:gssdarm@gmail.com" style="display: inline-flex; align-items: center; gap: 8px; background: linear-gradient(135deg, #EA4335 0%, #c5221f 100%); padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; color: #fff; font-size: 0.95em; box-shadow: 0 4px 12px rgba(234, 67, 53, 0.3); border: none; cursor: pointer;">
-    <span style="font-size: 1.2em;">✉️</span> Email
-  </a>
-  
-  <a href="https://t.me/ohnedan" style="display: inline-flex; align-items: center; gap: 8px; background: linear-gradient(135deg, #0088cc 0%, #005fa3 100%); padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; color: #fff; font-size: 0.95em; box-shadow: 0 4px 12px rgba(0, 136, 204, 0.3); border: none; cursor: pointer;">
-    <span style="font-size: 1.2em;">💬</span> Telegram
-  </a>
-
-  <a href="https://github.com/TheMaestr-o" style="display: inline-flex; align-items: center; gap: 8px; background: linear-gradient(135deg, #1f2937 0%, #111827 100%); padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; color: #fff; font-size: 0.95em; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); border: none; cursor: pointer;">
-    <span style="font-size: 1.2em;">👨‍💻</span> GitHub
-  </a>
-</div>
+[![Email](https://img.shields.io/badge/Email-gssdarm%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gssdarm@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40ohnedan-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ohnedan)
+[![GitHub](https://img.shields.io/badge/GitHub-TheMaestr--o-black?style=flat-square&logo=github&logoColor=white)](https://github.com/TheMaestr-o)
 
 ---
 
