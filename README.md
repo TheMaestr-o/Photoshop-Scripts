@@ -169,3 +169,21 @@ For questions, feedback, or collaboration:
 ---
 
 Last updated: June 2026
+
+---
+
+## Individual Script Repositories
+
+Each script also has its own dedicated repository for detailed documentation and independent releases:
+
+| Script | Repository | Stars |
+|--------|-----------|-------|
+| Smart Path Crop | [smart-path-crop](https://github.com/TheMaestr-o/smart-path-crop) | ![Stars](https://img.shields.io/github/stars/TheMaestr-o/smart-path-crop?style=flat-square) |
+| Layer Cleanup | [layer-cleanup](https://github.com/TheMaestr-o/layer-cleanup) | ![Stars](https://img.shields.io/github/stars/TheMaestr-o/layer-cleanup?style=flat-square) |
+| PathTransfer | [path-transfer](https://github.com/TheMaestr-o/path-transfer) | ![Stars](https://img.shields.io/github/stars/TheMaestr-o/path-transfer?style=flat-square) |
+| DocInfo Engine | [docinfo-engine](https://github.com/TheMaestr-o/docinfo-engine) | ![Stars](https://img.shields.io/github/stars/TheMaestr-o/docinfo-engine?style=flat-square) |
+| Document Info Extractor | [document-info-extractor](https://github.com/TheMaestr-o/document-info-extractor) | ![Stars](https://img.shields.io/github/stars/TheMaestr-o/document-info-extractor?style=flat-square) |
+| Stack in PSD | [stack-in-psd](https://github.com/TheMaestr-o/stack-in-psd) | ![Stars](https://img.shields.io/github/stars/TheMaestr-o/stack-in-psd?style=flat-square) |
+
+---
+
