@@ -3,7 +3,7 @@
 
 // English:
 // Script to reverse layer order and save Photoshop document as PSD with only the bottom layer visible.
-// Author: Ohnedan
+// Author: TheMaestr-o
 
 // Функция для удаления расширений из имени слоя
 // Function to remove file extensions from layer names

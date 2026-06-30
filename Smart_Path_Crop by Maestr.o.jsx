@@ -3,7 +3,7 @@
    SCRIPT:       Smart_Path_Crop by Maestr.o
    VERSION:      1.3 (Safety Margin 100px)
    YEAR:         2025
-   AUTHOR:       Maestr.o
+   AUTHOR:       TheMaestr-o
    --------------------------------------------------------------------------
    DESCRIPTION:
    Automated batch processing for product images based on 'Path 1'.
